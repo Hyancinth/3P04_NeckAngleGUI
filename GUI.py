@@ -2,16 +2,6 @@ from logging.handlers import QueueHandler
 import sys  # We need sys so we can pass argv to QApplication
 import os
 
-# from PyQt5.QtWidgets import QApplication
-# from PyQt5.QtWidgets import QLabel
-# from PyQt5.QtWidgets import QWidget
-# from PyQt5.QtWidgets import QMainWindow
-# from PyQt5.QtWidgets import QGridLayout
-# from PyQt5.QtWidgets import QVBoxLayout
-# from PyQt5.QtWidgets import QHBoxLayout
-# from PyQt5.QtWidgets import QPushButton
-# from PyQt5.QtWidgets import QFrame
-
 from PyQt5.QtWidgets import * 
 from PyQt5.QtGui import * 
 
